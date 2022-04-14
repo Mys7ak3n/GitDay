@@ -4,3 +4,6 @@ body {
     color: rgb(183, 206, 221);
     background-color: black;
 }
+h1 {
+    background-image: linear-gradient(red, orange, yellow, green, lightblue, blue, indigo, purple);
+}
